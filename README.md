@@ -31,6 +31,7 @@ I'm a junior front-end developer based in Berlin, Germany. <br> I like to draw a
 
 #
 
+- 👨‍💻 My project are available on my [portfolio](https://troopl.com/luepistaxis)
 - 🌱 Improve skills: Ruby on Rails, HTML, CSS, JavaScript 
 - 📫 You can contact me at lue.aslan@gmail.com
 - 😄 Pronouns: He/They
